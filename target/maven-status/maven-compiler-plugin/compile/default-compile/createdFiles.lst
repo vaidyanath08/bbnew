@@ -1,0 +1,17 @@
+com\backbase\controller\Impl\ResultControllerImpl.class
+com\backbase\model\This_account.class
+com\backbase\controller\ResultController.class
+com\backbase\model\Bank.class
+com\backbase\service\Impl\TransactionServiceImpl.class
+com\backbase\model\New_balance.class
+com\backbase\controller\TransactionController.class
+com\backbase\model\Holder.class
+com\backbase\model\Value.class
+com\backbase\constant\BBConstants.class
+com\backbase\model\TransactionDetails.class
+com\backbase\controller\Impl\TransactionControllerImpl.class
+com\backbase\model\Transactions.class
+com\backbase\junit\LoggingUtilities.class
+com\backbase\model\Other_account.class
+com\backbase\model\TransactionsList.class
+com\backbase\service\TransactionService.class
